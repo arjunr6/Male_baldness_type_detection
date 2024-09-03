@@ -1,1 +1,2 @@
 # Male_baldness_type_detection
+This project focuses on classifying male baldness stages using integrated AI models, including YOLOv8 and a Sequential CNN. The objective is to improve early detection and accurate classification of male baldness to aid in better treatment decisions. The YOLOv8 model is used for detecting regions of interest, while the Sequential CNN model classifies the stages of baldness based on the Hamilton-Norwood scale.
